@@ -1,0 +1,8 @@
+Django
+mysqlclient   # This is the MySQL database connector for Django
+virtualenv
+dj-database-url
+gunicorn
+whitenoise
+Pillow
+requests

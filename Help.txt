@@ -1,0 +1,17 @@
+
+
+**Instructions**
+- Install the Requirements: pip install -r requirements.txt
+- Then, make database migrations: python manage.py makemigrations
+- python manage.py migrate
+- And finally, run the application: python manage.py runserver
+
+**For Admin Login Credentials, please create one using superuser!**
+- python manage.py createsuperuser 
+     created user :  admin@gmail.com
+              pwd :  admin
+# to open mysql terminal :
+mysql -h django.ctvlrs4ftp7n.us-east-1.rds.amazonaws.com -P 3306 -u admin -p
+
+password : Tanu17012003
+
